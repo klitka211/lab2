@@ -34,4 +34,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: krzysztoflitka/aplikacja-light:tagname
+          tags: krzysztoflitka/aplikacja
