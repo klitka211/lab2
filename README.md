@@ -67,10 +67,10 @@ Wykonać punkt 4:
 
 ![11](https://user-images.githubusercontent.com/78439685/173596974-84982d49-3073-4006-84af-2fc7bb4cb882.png)
 
-![image](https://user-images.githubusercontent.com/78439685/173597096-517c350f-5019-4250-a272-e6a8db7855d4.png)
+![image](https://user-images.githubusercontent.com/78439685/173597680-93858405-40a5-4ccd-8523-2653fd7faf0b.png)
 
 - z przesłaniem danych nie na DockerHub a na repozytorium GitHub wraz z krótkim opisem
 konfiguracji GitHub Container Registry – max. 20%
 ![12](https://user-images.githubusercontent.com/78439685/173597217-faf56e04-2ffa-4e24-8281-60d844b1f7ca.png)
-![image](https://user-images.githubusercontent.com/78439685/173597309-d50571a4-f92a-4965-a65e-54a93333d9ef.png)
+![image](https://user-images.githubusercontent.com/78439685/173598179-34428ab8-c87d-49a2-bf89-1834d8030d37.png)
 
