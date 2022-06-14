@@ -1,6 +1,7 @@
 PROGRAMOWANIE FULL-STACK W CHMURACH OBLICZENIOWYCH - Zadanie 1
 
 CZĘŚĆ OBOWIĄZKOWA
+-------------------------------------------------------------------------------------------
 1. (max. 10%)
 Proszę napisać program serwera (dowolny język programowania), który realizować będzie
 następującą funkcjonalność:
@@ -71,6 +72,8 @@ Wykonać punkt 4:
 
 - z przesłaniem danych nie na DockerHub a na repozytorium GitHub wraz z krótkim opisem
 konfiguracji GitHub Container Registry – max. 20%
+
+Konfiguracja jest podobna jak przy Dockerhub, co widać poniżej:
 ![12](https://user-images.githubusercontent.com/78439685/173597217-faf56e04-2ffa-4e24-8281-60d844b1f7ca.png)
 ![image](https://user-images.githubusercontent.com/78439685/173598179-34428ab8-c87d-49a2-bf89-1834d8030d37.png)
 
